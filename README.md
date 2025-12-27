@@ -1,4 +1,4 @@
-# Mirage Brand Extract MCP
+# mcp-mirage
 
 An MCP (Model Context Protocol) server that extracts brand identity from any website and recreates it programmatically.
 
@@ -21,14 +21,14 @@ An MCP (Model Context Protocol) server that extracts brand identity from any web
 ### Using uv (recommended)
 
 ```bash
-cd mirage-brandextract-mcp
+cd mcp-mirage
 uv pip install -e .
 ```
 
 ### Using pip
 
 ```bash
-cd mirage-brandextract-mcp
+cd mcp-mirage
 pip install -e .
 ```
 

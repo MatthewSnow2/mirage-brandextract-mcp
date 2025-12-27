@@ -1,5 +1,5 @@
 [project]
-name = "mirage-brandextract-mcp"
+name = "mcp-mirage"
 version = "0.1.0"
 description = "MCP server to extract brand identity from websites and recreate it programmatically"
 readme = "README.md"
